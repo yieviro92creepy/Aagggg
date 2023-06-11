@@ -4,7 +4,7 @@ execute in shop!!!!!
 
 --// Change values only here
 
-local item = "vitamins" -- Name of item to multiple buy. Lighter, Flashlight, Lockpick, Vitamins
+local item = "Vitamins" -- Name of item to multiple buy. Lighter, Flashlight, Lockpick, Vitamins
 
 local giveitems = 2 -- How many times buy selected item
 
